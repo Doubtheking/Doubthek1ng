@@ -36,10 +36,10 @@
 
 | Категория            | Инструменты                                    |
 |----------------------|------------------------------------------------|
-| Операционные системы | Kali Linux, Parrot OS                          |
-| Сканеры              | Nmap, Gobuster, Nikto                          |
+| Операционные системы | Kali Linux, Windows                            |
+| Сканеры              | Nmap, Nikto                                    |
 | Web-тестирование     | Burp Suite, curl                               |
-| Эксплуатация         | Metasploit, Searchsploit, Exploit-DB          |
+| Эксплуатация         | Metasploit, Searchsploit, Exploit-DB           |
 | Повышение прав       | LinPEAS, pspy, GTFOBins                        |
 | Пароли и брутфорс    | Hydra, John the Ripper                         |
 
