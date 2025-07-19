@@ -49,8 +49,9 @@
 
 - Hack The Box
 - TryHackMe
-- HackTricks, PayloadsAllTheThings
-- YouTube: IppSec, LiveOverflow
+- Слитые курсы
+- YouTube
+- Читаю книги
 
 ---
 
