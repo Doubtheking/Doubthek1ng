@@ -48,3 +48,47 @@ I don’t know much yet, but I’m driven by curiosity. I practice in virtual la
 [![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-FF9800?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Vulnerability_assessment) 
 [![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-3F51B5?style=for-the-badge&logo=penetration_testing&logoColor=white)](https://en.wikipedia.org/wiki/Penetration_test) 
 [![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-9C27B0?style=for-the-badge&logo=windowsdefender&logoColor=white)](https://en.wikipedia.org/wiki/Malware_analysis)
+
+**📊 Github stats**
+
+<!-- Основная статистика GitHub -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doubtheking&show_icons=true&count_private=true&theme=radical&hide=issues)](https://github.com/Doubtheking)
+
+<!-- Топ языков -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doubtheking&layout=compact&theme=radical)](https://github.com/Doubtheking)
+
+<!-- Полоса активности -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doubtheking&theme=radical)](https://github.com/Doubtheking)
+
+<!-- Статистика PR, проектов и др. -->
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Doubtheking&theme=radical)](https://github.com/Doubtheking)
+
+---
+
+**🧡 Interests**
+
+[🖥️ Computers](https://en.wikipedia.org/wiki/Computer) — I have a deep passion for computers and all things related to technology.  
+[🛡️ Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) — Cybersecurity fascinates me, and I am eager to grow my skills in this field.  
+[📺 Anime](https://en.wikipedia.org/wiki/Anime) — In my free time, I enjoy watching anime and reading manga, books, and light novels.  
+[🎮 Games](https://en.wikipedia.org/wiki/Video_game) — I also like playing various games, even if some are a bit slow-paced.  
+[🎬 Movies & TV](https://en.wikipedia.org/wiki/Film) — Additionally, I am a fan of TV series and movies.  
+[⚡ Learning](https://en.wikipedia.org/wiki/Learning) — My goal is to learn and master everything efficiently and as quickly as possible.
+
+---
+**The materials I study**
+
+[![eJPT](https://img.shields.io/badge/eJPT-eLearnSecurity-0078D7?style=for-the-badge&logo=elearning&logoColor=white)](https://elearnsecurity.com/product/ejpt) 
+[![PNPT](https://img.shields.io/badge/PNPT-Practical%20Pentest%20Labs-0052CC?style=for-the-badge&logo=penetration-testing&logoColor=white)](https://www.practicalpentestlabs.com/pnpt) 
+[![CRTO](https://img.shields.io/badge/CRTO-Red%20Team%20Training-D14836?style=for-the-badge&logo=redhat&logoColor=white)](https://redteamtraining.de/red-team-operations-crto) 
+[![OSCP](https://img.shields.io/badge/OSCP-Offensive%20Security-FF5722?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/pwk-oscp) 
+[![OSEP](https://img.shields.io/badge/OSEP-Offensive%20Security-4A154B?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/osep) 
+[![OSEE](https://img.shields.io/badge/OSEE-Offensive%20Security-9C27B0?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/osee)
+
+---
+**My profiles**
+1. [HTB](https://app.hackthebox.com/users/2427112)   2. [THM](https://tryhackme.com/p/Doubthek1ng)   3. [Hacker Lab](https://hackerlab.pro/users/Doubthek1ng)
+
+---
+**My projects**
+
+it's empty right now, but I'll be adding to my profile as time goes on.
