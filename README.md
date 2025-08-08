@@ -6,7 +6,7 @@ My name is Ivan Afanasiev and I come from [Moscow](https://en.wikipedia.org/wiki
 <summary>Learn more about me</summary>
  My Journey into Pentesting
 
-I'm 18 and just starting out, but my passion for pentesting is already burning bright. It all began when I stumbled across a YouTube video about ethical hacking—watching someone uncover vulnerabilities in systems was like solving a puzzle, and I was hooked. The idea of protecting systems by thinking like an attacker fascinated me.
+I'm 18 and just starting out, but my passion for pentesting is already burning bright. Currently, I'm studying tools and technical skills. It all began when I stumbled across a YouTube video about ethical hacking—watching someone uncover vulnerabilities in systems was like solving a puzzle, and I was hooked. The idea of protecting systems by thinking like an attacker fascinated me.
 
 I spend hours each day diving into the world of cybersecurity. I watch tutorials on platforms like TryHackMe and Hack The Box, following along with capture-the-flag challenges to learn how networks and systems work. I’ve been experimenting with Kali Linux, trying tools like Nmap and Metasploit, even though I’m still figuring out the basics. Online courses and YouTube playlists about web security, SQL injection, and password cracking are my go-to resources.
 
